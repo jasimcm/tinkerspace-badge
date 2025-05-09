@@ -25,3 +25,6 @@ Use any of these badge styles to show off your build at TinkerSpace!
 [![💻 Built at TinkerSpace](https://img.shields.io/badge/Built%20at-TinkerSpace-grey?style=plastic&label=%F0%9F%92%BBBuilt%20at&labelColor=white)](https://tinkerhub.org/tinkerspace)
 
 [![💻 Built at TinkerSpace](https://img.shields.io/badge/Built%20at-TinkerSpace-purple?style=social&label=%F0%9F%92%BBBuilt%20at)](https://tinkerhub.org/tinkerspace)
+<h3>💻 Built at TinkerSpace – Purple Badge</h3>
+<pre><code id="badge1">[![💻 Built at TinkerSpace](https://img.shields.io/badge/Built%20at-TinkerSpace-purple?style=social&label=%F0%9F%92%BBBuilt%20at)](https://tinkerhub.org/tinkerspace)</code></pre>
+<button onclick="navigator.clipboard.writeText(document.getElementById('badge1').textContent)">📋 Copy</button>
